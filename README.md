@@ -51,7 +51,7 @@ Dự án không cần cài thư viện hay chạy bước build:
 ├── index.html                 # Trang portfolio và biểu mẫu liên hệ
 ├── ket-qua.html               # Trang hiển thị kết quả liên hệ
 ├── css/
-│   └── styles.css             # Tệp định dạng CSS
+│   └── styles.css             # Stylesheet dùng chung cho hai trang
 ├── assets/                    # Hình minh họa SVG cho dự án
 ├── docs/
 │   ├── AI_LOG.md              # Nhật ký kiểm tra và sử dụng AI
